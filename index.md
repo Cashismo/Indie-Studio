@@ -1,8 +1,7 @@
 ### Bienvenue sur notre page de démonstration de notre projet Indie Studio
 
-[Link](url) and ![Image](src)
-```
+##Veuillez trouver ci-dessous le lien de téléchargement du jeu :
 
-[bomberman](https://github.com/andreamouraud/cpp_indie_studio.git)
+[Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
-[zip](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
+#Bon jeu !
