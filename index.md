@@ -3,4 +3,4 @@
 [Link](url) and ![Image](src)
 ```
 
-[link](https://github.com/andreamouraud/cpp_indie_studio.git)
+[Link](https://github.com/andreamouraud/cpp_indie_studio.git)
