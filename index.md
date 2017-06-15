@@ -1,4 +1,4 @@
-# Bienvenue sur la page de démonstration de notre projet Indie Studio
+## Bienvenue sur la page de démonstration de notre projet Indie Studio
 
 ## Veuillez trouver ci-dessous le lien de téléchargement du jeu :
 
