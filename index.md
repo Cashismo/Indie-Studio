@@ -6,10 +6,9 @@
 
 ### Bon jeu !
 
-
-aurelien.gassemann@epitech.eu   \
-johan.ganem-brunet@epitech.eu   \
-andrea.mouraud@epitech.eu       \
-alexis.jamet@epitech.eu         \
-antoine.galpin@epitech.eu       \
-fabrice.sepret@epitech.eu       \
+[Aurélien Gassemann](aurelien.gassemann@epitech.eu)
+johan.ganem-brunet@epitech.eu
+andrea.mouraud@epitech.eu
+alexis.jamet@epitech.eu
+antoine.galpin@epitech.eu
+fabrice.sepret@epitech.eu
