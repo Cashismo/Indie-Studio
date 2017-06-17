@@ -4,6 +4,6 @@
 
 [Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
-(https://vignette4.wikia.nocookie.net/bomberman/images/e/eb/Bomberman_2.jpg/revision/latest?cb=20110207172040)
+[https://vignette4.wikia.nocookie.net/bomberman/images/e/eb/Bomberman_2.jpg/revision/latest?cb=20110207172040]
 
 ### Bon jeu !
