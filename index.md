@@ -6,8 +6,8 @@
 
 ### Bon jeu !
 
-[Aurélien Gassemann](aurelien.gassemann@epitech.eu)
-johan.ganem-brunet@epitech.eu
+[Aurélien Gassemann](https://intra.epitech.eu/user/aurelien.gassemann@epitech.eu/)
+[Johan Ganem--Brunet](https://intra.epitech.eu/user/johan.ganem-brunet@epitech.eu/)
 andrea.mouraud@epitech.eu
 alexis.jamet@epitech.eu
 antoine.galpin@epitech.eu
