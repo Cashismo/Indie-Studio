@@ -5,3 +5,11 @@
 [Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
 ### Bon jeu !
+
+
+aurelien.gassemann@epitech.eu   \
+johan.ganem-brunet@epitech.eu   \
+andrea.mouraud@epitech.eu       \
+alexis.jamet@epitech.eu         \
+antoine.galpin@epitech.eu       \
+fabrice.sepret@epitech.eu       \
