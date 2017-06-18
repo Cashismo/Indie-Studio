@@ -4,7 +4,7 @@
 
 [Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
-![Alt](/bomberman.png "Title")
+![Alt](/bomberman.png "Bomberman")
 
 ### Bon jeu !
 
