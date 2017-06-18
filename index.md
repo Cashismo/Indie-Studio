@@ -6,6 +6,8 @@
 
 ![Alt](/bomberman.png "Bomberman")
 
+<img src="/bomberman.png" alt="voiture"/>
+
 ### Bon jeu !
 
 [Aurélien Gassemann](https://intra.epitech.eu/user/aurelien.gassemann@epitech.eu/)
