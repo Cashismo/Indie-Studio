@@ -4,6 +4,8 @@
 
 [Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
+![Alt](/bomberman.png "Title")
+
 ### Bon jeu !
 
 [Aurélien Gassemann](https://intra.epitech.eu/user/aurelien.gassemann@epitech.eu/)
