@@ -6,7 +6,7 @@
 
 ![Alt](/bomberman.png "Bomberman")
 
-<img src="/bomberman.png" alt="voiture"/>
+<img src="/Bomberman_2.jpg" alt="bomberman"/>
 
 ### Bon jeu !
 
