@@ -1,10 +1,8 @@
 ## Bienvenue sur la page de téléchargement de notre projet Indie Studio
 
 ## Veuillez trouver ci-dessous le lien de téléchargement du jeu :
-
-[Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
-
 ![Alt](http://static.tvtropes.org/pmwiki/pub/images/bomberman.png "Bomberman")
+[Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
 ### Bon jeu !
 
