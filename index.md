@@ -4,9 +4,7 @@
 
 [Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
 
-![Alt](/bomberman.png "Bomberman")
-
-<img src="https://vignette4.wikia.nocookie.net/bomberman/images/e/eb/Bomberman_2.jpg/revision/latest?cb=20110207172040" alt="link"/>
+![Alt](http://static.tvtropes.org/pmwiki/pub/images/bomberman.png "Bomberman")
 
 ### Bon jeu !
 
