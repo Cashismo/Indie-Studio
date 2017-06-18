@@ -6,7 +6,7 @@
 
 ![Alt](/bomberman.png "Bomberman")
 
-<img src="/Bomberman_2.jpg" alt="bomberman"/>
+<img src="https://vignette4.wikia.nocookie.net/bomberman/images/e/eb/Bomberman_2.jpg/revision/latest?cb=20110207172040" alt="bomberman"/>
 
 ### Bon jeu !
 
