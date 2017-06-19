@@ -2,7 +2,7 @@
 
 ## Veuillez trouver ci-dessous le lien de téléchargement du jeu :
 ![Alt](http://static.tvtropes.org/pmwiki/pub/images/bomberman.png "Bomberman")
-[Bomberman](https://github.com/andreamouraud/cpp_indie_studio/archive/master.zip)
+[Bomberman](https://github.com/Cashismo/Bomberman/archive/master.zip)
 
 ### Bon jeu !
 
